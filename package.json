@@ -1,0 +1,19 @@
+{
+  "name": "game-of-life-with-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lgerald/game-of-life-with-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lgerald/game-of-life-with-React/issues"
+  },
+  "homepage": "https://github.com/Lgerald/game-of-life-with-React#readme"
+}
